@@ -1,4 +1,4 @@
-# Data Preprocessing AI Agent
+# Data Preprocessing AI Agent 📊🤖
 
 ![2025-02-06 AI Agent for Data Preprocessing](./media/expl.png)
 
@@ -24,8 +24,8 @@ The AI Agent is still in early-stage testing. This repository will be regularly 
 
 If you:
 
-- **Have suggestions on how to improve the Agent**: Feel free to email me at [adrian.blazeusz@gmail.com](mailto:adrian.blazeusz@gmail.com).
-- **Like the idea**: Please leave a star to show your support!
+- **Have suggestions on how to improve the Agent**: Feel free to email me at [adrian.blazeusz@gmail.com](mailto:adrian.blazeusz@gmail.com).📩
+- **Like the idea**: Please leave a star to show your support! 🌟
 
 **Stay tuned for more updates!**
 I’ll be adding examples soon to provide a bigger picture.
