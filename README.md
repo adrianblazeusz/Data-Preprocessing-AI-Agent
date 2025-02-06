@@ -27,4 +27,5 @@ If you:
 - **Have suggestions on how to improve the Agent**: Feel free to email me at [adrian.blazeusz@gmail.com](mailto:adrian.blazeusz@gmail.com).
 - **Like the idea**: Please leave a star to show your support!
 
-Stay tuned for more updates!
+**Stay tuned for more updates!**
+I’ll be adding examples soon to provide a bigger picture.
