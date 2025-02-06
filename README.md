@@ -15,7 +15,7 @@ Currently, the AI Agent is capable of performing the following tasks:
 - **Handling Missing Data:** Choose and apply the best strategy for dealing with missing values, ensuring realistic data representation and consistency.
 - **Data Normalization:** Scale features into a standard range to ensure accurate machine learning model interpretation.
 - **Feature Engineering:** Create or refine features to provide better insights to models, improving their understanding of the task.
-- **Data Standardization:** Standardize data to ensure consistency across all features, making it compatible with various machine learning algorithms.
+- **Data Standardization:** Standardize data to ensure consistency across all features.
 - **Data Balancing:** Apply techniques to balance imbalanced datasets (e.g., oversampling, undersampling), improving model performance on underrepresented classes.
 
 ## About Agent AI
